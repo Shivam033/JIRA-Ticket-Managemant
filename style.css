@@ -59,6 +59,7 @@ body {
     background-color: lightsalmon;
     border-radius: 2px;
     padding-top: 1.5px;
+    cursor: pointer;
 }
 
 .lightpink{
